@@ -1,2 +1,2 @@
 # cdn
-cdn加速
+jsDeliver Cdn
