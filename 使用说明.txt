@@ -1,0 +1,4 @@
+git status  //查看状态
+git add .   //添加
+git commit -m '名称'  //命名
+git push // 上传
